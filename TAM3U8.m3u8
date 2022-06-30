@@ -9,15 +9,3 @@ http://api.toonamiaftermath.com:3000/pst/playlist.m3u8?useHttps=true
 
 #EXTINF:0, tvg-name="Toonami Aftermath Movies" tvg-logo="https://raw.githubusercontent.com/kbmystery7/TAM3U8/main/ta%20wall%20thumb%20movies.jpg" group-title="Toonami Aftermath",Toonami Aftermath Movies
 http://api.toonamiaftermath.com:3000/movies/playlist.m3u8?useHttps=true
-
-#EXTINF:0, tvg-name="Toonami Aftermath Radio" tvg-logo="https://raw.githubusercontent.com/kbmystery7/TAM3U8/main/ta%20wall%20thumb%20radio.jpg" group-title="Toonami Aftermath",Toonami Aftermath Radio
-http://api.toonamiaftermath.com:3000/radio/playlist.m3u8?useHttps=true
-
-#EXTINF:0, tvg-logo="" group-title="Snickelodeon",Snickelodeon East EST
-http://api.toonamiaftermath.com:3000/snick-est/playlist.m3u8?useHttps=true
-
-#EXTINF:0, tvg-logo="" group-title="Snickelodeon",Snickelodeon West PST
-http://api.toonamiaftermath.com:3000/snick-pst/playlist.m3u8?useHttps=true
-
-#EXTINF:0, tvg-logo="" group-title="MTV 97",MTV 97
-http://api.toonamiaftermath.com:3000/mtv97/playlist.m3u8?useHttps=true
