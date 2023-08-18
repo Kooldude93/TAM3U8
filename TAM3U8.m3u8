@@ -6,6 +6,3 @@ http://api.toonamiaftermath.com:3000/est/playlist.m3u8?useHttps=true
 
 #EXTINF:0, tvg-name="Toonami Aftermath West PST" tvg-logo="https://raw.githubusercontent.com/Kooldude93/TAM3U8/main/ta%20wall%20thumb%20west.jpg" group-title="Toonami Aftermath",Toonami Aftermath West PST
 http://api.toonamiaftermath.com:3000/pst/playlist.m3u8?useHttps=true
-
-#EXTINF:0, tvg-name="Toonami Aftermath Movies" tvg-logo="https://raw.githubusercontent.com/Kooldude93/TAM3U8/main/ta%20wall%20thumb%20movies.jpg" group-title="Toonami Aftermath",Toonami Aftermath Movies
-http://api.toonamiaftermath.com:3000/movies/playlist.m3u8?useHttps=true
